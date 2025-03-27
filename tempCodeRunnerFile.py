@@ -1,0 +1,1 @@
+index.search(np.array([query_embedding[0]]), k=1)
