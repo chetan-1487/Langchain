@@ -27,6 +27,6 @@ print(prompt)
 #     "position":"AI Engineer",
 #     "skill":"Python"
 # })
-
+ 
 # result=llm.invoke(prompt)
 # print(result.content)
